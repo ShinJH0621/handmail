@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="kr.ac.kopo.handmail">
+        <property name="context-root" value="handmail"/>
+        <property name="java-output-path" value="/kr.ac.kopo.handmail/build/classes"/>
+    </wb-module>
+</project-modules>
